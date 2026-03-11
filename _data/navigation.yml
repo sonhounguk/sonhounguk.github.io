@@ -1,18 +1,18 @@
 # main links
 main:
-- title: "Category"
+- title: "카테고리"
   url: /categories/
-- title: "Tags"
+- title: "태그"
   url: /tags/
-- title: "Search"
+- title: "검색"
   url: /search/
 
 docs:
 - title: "목차"
   children:
-    - title: "Category"
+    - title: "카테고리"
       url: /categories/
-    - title: "Tag"
+    - title: "태그"
       url: /tags/
 
   # - title: "About"

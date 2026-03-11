@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "쥐쥐의 블로그"
+title                    : "woogi의 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "쥐쥐"
-description              : "쥐쥐의 블로그입니다"
+name                     : "손형욱"
+description              : "woogi의 블로그입니다"
 url                      : "https://sonhounguk.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "쥐쥐"
+  name             : "woogi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "쥐쥐의 블로그입니다."
+  bio              : "woogi의 블로그입니다."
   location         : "South Korea"
   links:
     - label: "Email"
